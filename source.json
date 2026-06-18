@@ -1,0 +1,19 @@
+{
+    "name":"Club Maul",
+    "id":"com.clubmaul.vpm",
+    "url":"https://club-maul.github.io/vpm-listing/index.json",
+    "author":{
+        "name":"Club Maul",
+        "url":"https://github.com/Club-Maul"
+    },
+    "description":"Club Maul VPM packages for VRChat avatars.",
+    "infoLink":{
+        "url":"https://github.com/Club-Maul/vpm-listing",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "Club-Maul/staff-scanner-v2"
+    ],
+    "packages":[]
+}
